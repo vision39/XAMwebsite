@@ -151,6 +151,16 @@ body.nav-active{
 .headline-sm{
   font-size: var(--headline-sm);
 }
+
+.title-lg{
+  font-size: var(--title-lg);
+  line-height: 1.4;
+}
+
+.title-md{
+  font-size: var(--title-md);
+}
+
 .title-sm{
   font-size: var(--title-sm);
   font-weight: var(--fw-500);
